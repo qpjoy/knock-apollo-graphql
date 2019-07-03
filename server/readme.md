@@ -1,6 +1,5 @@
 See https://hptechblogs.com/making-a-graphql-api-in-express/
 
-
 # Getting started:
 1. Clone this repo
 2. do yarn
